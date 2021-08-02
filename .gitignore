@@ -26,4 +26,4 @@ version.lock
 # Config file
 *.ini
 conf/conf.ini
-/statik/
+
